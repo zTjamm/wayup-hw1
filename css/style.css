@@ -1,0 +1,35 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  color: black;
+  font-size: 20px;
+}
+.logo {
+  width: 150px;
+}
+h1 {
+  color: red;
+}
+h2 {
+  background-color: green;
+  color: white;
+}
+.header__text {
+  width: 100px;
+  background-color: blue;
+  color: white;
+  margin-bottom: 100px;
+}
+.header__link {
+  color: red;
+}
+.can-i__name {
+  padding: 30px 0px 30px 30px;
+}
+.can-i__text {
+  margin-left: 100px;
+}
+.form__item {
+  border: 1px solid black;
+  font-size: 25px;
+  font-weight: 700;
+}
